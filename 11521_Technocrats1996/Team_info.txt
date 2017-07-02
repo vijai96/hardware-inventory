@@ -1,0 +1,28 @@
+1. Team name : Technocrats1996
+
+2. Title of the idea : Software for system hardware inventory
+
+3. I4C id : 11521
+
+4. Team Members:
+	Team lead : R.VIJAI
+	Team Member: A.VIKKRAM
+	Team Member: K.SUDHARSHAN
+	Team Member: VIJAY SAI THIAGARAJAN
+	Team Member: SHRUTHIKA MANDIRAM
+	Team Member: RESHMA.S
+
+	MENTOR: DR C JAYAKUMAR
+	MENTOR: G JANAKASUDHA
+
+5.Tech Stack used: 
+	
+	PYTHON(Linux)
+	C#(Windows)
+	BOOTSTRAP
+	JAVASCRIPT
+	CSS
+	MONGODB
+
+6. College Name: SRI VENKATESWARA COLLEGE OF ENGINEERING, SRIPERUMBUDUR, TAMIL NADU.
+	
